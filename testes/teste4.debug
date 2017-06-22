@@ -1,0 +1,43 @@
+Instala -> um na tabela de símbolos com o tipo 0
+
+O item: um esta no nivel: 1               Indice: 1
+Instala -> dois na tabela de símbolos com o tipo 0
+
+O item: dois esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: um esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: um esta no nivel: 1               Indice: 1
+
+Parsing com sucesso
+
+Tabela de símbolos:
+
+
+Nome : um
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 2
+
+
+
+Nome : dois
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 0
+

@@ -1,0 +1,236 @@
+Instala -> a na tabela de símbolos com o tipo 0
+
+O item: a esta no nivel: 1               Indice: 1
+Instala -> b na tabela de símbolos com o tipo 0
+
+O item: b esta no nivel: 1               Indice: 2
+Instala -> c na tabela de símbolos com o tipo 0
+
+O item: c esta no nivel: 1               Indice: 3
+Instala -> d na tabela de símbolos com o tipo 0
+
+O item: d esta no nivel: 1               Indice: 4
+Instala -> e na tabela de símbolos com o tipo 0
+
+O item: e esta no nivel: 1               Indice: 5
+Instala -> f na tabela de símbolos com o tipo 0
+
+O item: f esta no nivel: 1               Indice: 6
+
+Entrada no nivel  2
+Instala -> i na tabela de símbolos com o tipo 0
+
+O item: i esta no nivel: 1               Indice: 1
+Instala -> j na tabela de símbolos com o tipo 0
+
+O item: j esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 1
+
+Saida do nivel 2
+Instala procedimento -> numberMultiplica na tabela de símbolos com o tipo 5 e label 
+
+O item: numberMultiplica esta no nivel: 1               Indice: 7
+Instala -> k na tabela de símbolos com o tipo 0 e modo 0
+Instala -> x na tabela de símbolos com o tipo 0 e modo 0
+Instala -> y na tabela de símbolos com o tipo 0 e modo 0
+
+O item esta no nivel: 1               Indice: 3
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 2
+
+O item esta no nivel: 1               Indice: 7
+
+id:numberMultiplica
+
+O item esta no nivel: 1               Indice: 3
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 2
+
+O item esta no nivel: 1               Indice: 7
+
+id:numberMultiplica
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: k esta no nivel: 1               Indice: 8
+Este item nao foi encontrado
+
+O item: k esta no nivel: 1               Indice: 8
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: k esta no nivel: 1               Indice: 8
+Este item nao foi encontrado
+
+O item: k esta no nivel: 1               Indice: 8
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item: b esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: c esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item: b esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+Parsing com sucesso
+
+Tabela de símbolos:
+
+
+Nome : a
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 2
+
+
+
+Nome : b
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 3
+
+
+
+Nome : c
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 4
+
+
+
+Nome : d
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 5
+
+
+
+Nome : e
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 6
+
+
+
+Nome : f
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 7
+
+
+
+Nome : numberMultiplica
+Atributo : L8
+Nivel : 1
+Type : 5
+Esquerdo : 0
+Direito : 8
+
+
+
+Nome : k
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 9
+
+
+
+Nome : x
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 10
+
+
+
+Nome : y
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 0
+

@@ -1,0 +1,123 @@
+Instala -> oi na tabela de símbolos com o tipo 1
+
+O item: oi esta no nivel: 1               Indice: 1
+Instala -> weight na tabela de símbolos com o tipo 0
+
+O item: weight esta no nivel: 1               Indice: 2
+Instala -> group na tabela de símbolos com o tipo 0
+
+O item: group esta no nivel: 1               Indice: 3
+Instala -> charge na tabela de símbolos com o tipo 0
+
+O item: charge esta no nivel: 1               Indice: 4
+Instala -> distance na tabela de símbolos com o tipo 0
+
+O item: distance esta no nivel: 1               Indice: 5
+read -> weight 
+
+O item esta no nivel: 1               Indice: 5
+
+O item esta no nivel: 1               Indice: 2
+
+O item esta no nivel: 1               Indice: 5
+
+O item esta no nivel: 1               Indice: 4
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: distance esta no nivel: 1               Indice: 5
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: oi esta no nivel: 1               Indice: 1
+
+O item: weight esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+
+O item: distance esta no nivel: 1               Indice: 5
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: group esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: weight esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: group esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: distance esta no nivel: 1               Indice: 5
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: charge esta no nivel: 1               Indice: 4
+Este item nao foi encontrado
+
+O item: charge esta no nivel: 1               Indice: 4
+
+Parsing com sucesso
+
+Tabela de símbolos:
+
+
+Nome : oi
+Atributo : 
+Nivel : 1
+Type : 1
+Esquerdo : 0
+Direito : 2
+
+
+
+Nome : weight
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 3
+
+
+
+Nome : group
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 4
+
+
+
+Nome : charge
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 5
+
+
+
+Nome : distance
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 0
+

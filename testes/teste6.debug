@@ -1,0 +1,183 @@
+Instala -> a na tabela de símbolos com o tipo 0
+
+O item: a esta no nivel: 1               Indice: 1
+Instala -> b na tabela de símbolos com o tipo 0
+
+O item: b esta no nivel: 1               Indice: 2
+Instala -> c na tabela de símbolos com o tipo 0
+
+O item: c esta no nivel: 1               Indice: 3
+
+Entrada no nivel  2
+Instala -> j na tabela de símbolos com o tipo 0
+
+O item: j esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+Saida do nivel 2
+Instala procedimento -> p na tabela de símbolos com o tipo 5 e label 
+
+O item: p esta no nivel: 1               Indice: 4
+Instala -> x na tabela de símbolos com o tipo 0 e modo 0
+Instala -> y na tabela de símbolos com o tipo 0 e modo 0
+Instala -> z na tabela de símbolos com o tipo 0 e modo 0
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 2
+
+O item esta no nivel: 1               Indice: 3
+
+O item esta no nivel: 1               Indice: 4
+
+id:p
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 2
+
+O item esta no nivel: 1               Indice: 3
+
+O item esta no nivel: 1               Indice: 1
+
+O item esta no nivel: 1               Indice: 4
+
+id:p
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: x esta no nivel: 1               Indice: 5
+Este item nao foi encontrado
+
+O item: y esta no nivel: 1               Indice: 6
+Este item nao foi encontrado
+
+O item: z esta no nivel: 1               Indice: 7
+Este item nao foi encontrado
+
+O item: z esta no nivel: 1               Indice: 7
+Este item nao foi encontrado
+
+O item: x esta no nivel: 1               Indice: 5
+Este item nao foi encontrado
+
+O item: z esta no nivel: 1               Indice: 7
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: b esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: c esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item: b esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+
+O item: c esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+
+O item: b esta no nivel: 1               Indice: 2
+Este item nao foi encontrado
+
+O item: c esta no nivel: 1               Indice: 3
+Este item nao foi encontrado
+
+O item: a esta no nivel: 1               Indice: 1
+Este item nao foi encontrado
+Este item nao foi encontrado
+
+Parsing com sucesso
+
+Tabela de símbolos:
+
+
+Nome : a
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 2
+
+
+
+Nome : b
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 3
+
+
+
+Nome : c
+Atributo : 
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 4
+
+
+
+Nome : p
+Atributo : L5
+Nivel : 1
+Type : 5
+Esquerdo : 0
+Direito : 5
+
+
+
+Nome : x
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 6
+
+
+
+Nome : y
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 7
+
+
+
+Nome : z
+Atributo : param
+Nivel : 1
+Type : 0
+Esquerdo : 0
+Direito : 0
+
