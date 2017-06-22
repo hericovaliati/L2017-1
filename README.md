@@ -9,6 +9,16 @@ sudo apt-get install flex
 
 sudo apt-get install bison
 
+make
+
+e
+
+./L2017-1 -i <entrada.pas> -o <saida.<.bin|.mepa>> -c <bin|inter>
+
+-c bin -> gera a tradução do código intermediário
+
+-c inter -> gera código intermediário 
+
 L2017-1 é um subconjunto da linguagem Pascal
 
 O compilador L2017-1c não está 100%, mas os conceitos básicos para seu funcionamento foram todos implementados
