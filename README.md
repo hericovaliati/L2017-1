@@ -4,7 +4,9 @@ Compilador para a Linguagem L2017-1
 Necessário a instalação do flex e bison.
 
 No ubuntu:
+
 sudo apt-get install flex
+
 sudo apt-get install bison
 
 L2017-1 é um subconjunto da linguagem Pascal
