@@ -1,0 +1,19 @@
+Os testes estão organizados da seguinte forma:
+Os *.mepa são arquivos de código intermediário gerados pelo compilador
+Os *.bin são traduçes do código mepa para um representação por inteiros
+Os *.debug são informações geradas pelo compilador L2017c durante a compilação
+
+Os comandos que geraram esses testes são os seguintes:
+
+./L2017-1c -i testes/teste1.pas -o testes/teste1.mepa -c inter > testes/teste1.debug 
+./L2017-1c -i testes/teste2.pas -o testes/teste2.mepa -c inter > testes/teste2.debug 
+./L2017-1c -i testes/teste3.pas -o testes/teste3.mepa -c inter > testes/teste3.debug 
+./L2017-1c -i testes/teste4.pas -o testes/teste4.mepa -c inter > testes/teste4.debug 
+./L2017-1c -i testes/teste5.pas -o testes/teste5.mepa -c inter > testes/teste5.debug 
+./L2017-1c -i testes/teste6.pas -o testes/teste6.mepa -c inter > testes/teste6.debug
+./L2017-1c -i testes/teste1.pas -o testes/teste1.mepa -c bin > testes/teste1.debug
+./L2017-1c -i testes/teste2.pas -o testes/teste2.mepa -c bin > testes/teste2.debug
+./L2017-1c -i testes/teste3.pas -o testes/teste3.mepa -c bin > testes/teste3.debug
+./L2017-1c -i testes/teste4.pas -o testes/teste4.mepa -c bin > testes/teste4.debug
+./L2017-1c -i testes/teste5.pas -o testes/teste5.mepa -c bin > testes/teste5.debug
+./L2017-1c -i testes/teste6.pas -o testes/teste6.mepa -c bin > testes/teste6.debug
